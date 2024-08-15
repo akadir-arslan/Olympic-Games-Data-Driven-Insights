@@ -3,12 +3,13 @@
 This project analyzes Olympic Games data, focusing on the years since 2012, and does NOT include 2024. The analysis includes data preparation, cleaning, merging datasets, and answering a set of exercises related to the athletes, events, and outcomes of the Olympic Games. The project is a portfolio exam, demonstrating skills in data cleaning, merging, analysis, and visualization.
 
 ## Data Sources
-The datasets used in this analysis were obtained from Olympedia. Only minor renaming has been performed on the raw data to facilitate the analysis.
+The datasets used in this analysis were obtained from olympedia.org and worldbank.org. Only minor renaming has been performed on the raw data to facilitate the analysis.
 
 ### Datasets Used:
 - **athletes.txt**: Contains information about the athletes participating in the Olympic Games.
 - **games.tsv**: Contains details about different Olympic Games events.
 - **results.csv**: Includes the results of the athletes in various Olympic events.
+- **countries_population_2016.csv**: This dataset, obtained from the World Bank API Indicators, includes the population data for countries in 2016.
 
 ## Data Preparation and Manipulation
 The first step of this project was to read the datasets, create DataFrames, and then study and understand the data. The data preparation and manipulation process involved:
