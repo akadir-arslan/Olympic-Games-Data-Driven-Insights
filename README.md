@@ -60,4 +60,4 @@ Various visualizations were created throughout the project to represent the data
 - World Bank API documentation for population data..
 
 ## How to Use
-To run the analysis, you need the datasets mentioned above. Simply execute the code cells in the Jupyter Notebook in the order they appear, and you will be able to reproduce the analysis and visualizations. However, I did not the datasets in the repository!
+To run the analysis, you need the datasets mentioned above. Simply execute the code cells in the Jupyter Notebook in the order they appear, and you will be able to reproduce the analysis and visualizations. However, I did not provide the datasets in the repository!
